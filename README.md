@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0070-climbing-stairs) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Memoization
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0496-next-greater-element-i) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0496-next-greater-element-i) |
+## Matrix
+|  |
+| ------- |
+| [3742-maximum-path-score-in-a-grid](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/3742-maximum-path-score-in-a-grid) |
 <!---LeetCode Topics End-->
