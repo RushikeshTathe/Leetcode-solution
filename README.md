@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0503-next-greater-element-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Hash Table
 |  |
@@ -27,10 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0503-next-greater-element-ii) |
 ## Matrix
 |  |
 | ------- |
