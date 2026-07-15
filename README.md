@@ -28,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0503-next-greater-element-ii) |
 ## Matrix
@@ -44,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0735-asteroid-collision) |
+## String
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0402-remove-k-digits) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
