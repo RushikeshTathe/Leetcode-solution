@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0735-asteroid-collision) |
+| [2104-sum-of-subarray-ranges](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/2104-sum-of-subarray-ranges) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0735-asteroid-collision) |
+| [2104-sum-of-subarray-ranges](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0503-next-greater-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/2104-sum-of-subarray-ranges) |
 ## Matrix
 |  |
 | ------- |
