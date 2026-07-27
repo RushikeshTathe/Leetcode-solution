@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0735-asteroid-collision) |
+| [1004-max-consecutive-ones-iii](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [2104-sum-of-subarray-ranges](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/2104-sum-of-subarray-ranges) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Hash Table
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0239-sliding-window-maximum) |
+| [1004-max-consecutive-ones-iii](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -107,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0239-sliding-window-maximum) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
