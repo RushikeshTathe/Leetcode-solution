@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0735-asteroid-collision) |
 | [0930-binary-subarrays-with-sum](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0930-binary-subarrays-with-sum) |
+| [0994-rotting-oranges](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [2104-sum-of-subarray-ranges](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/2104-sum-of-subarray-ranges) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0085-maximal-rectangle) |
+| [0994-rotting-oranges](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0994-rotting-oranges) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Simulation
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
