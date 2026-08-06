@@ -131,11 +131,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0994-rotting-oranges) |
@@ -146,5 +148,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0547-number-of-provinces) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
