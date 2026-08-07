@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0070-climbing-stairs) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0735-asteroid-collision) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0930-binary-subarrays-with-sum](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0496-next-greater-element-i) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0930-binary-subarrays-with-sum](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0930-binary-subarrays-with-sum) |
 ## Stack
 |  |
@@ -162,4 +165,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0207-course-schedule) |
+## Counting
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Number Theory
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
