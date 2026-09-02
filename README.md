@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0904-fruit-into-baskets) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0930-binary-subarrays-with-sum](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/1248-count-number-of-nice-subarrays) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0904-fruit-into-baskets) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0930-binary-subarrays-with-sum](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/1248-count-number-of-nice-subarrays) |
 ## Stack
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/1248-count-number-of-nice-subarrays) |
 ## Divide and Conquer
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0992-subarrays-with-k-different-integers](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0992-subarrays-with-k-different-integers) |
 ## Number Theory
 |  |
 | ------- |
