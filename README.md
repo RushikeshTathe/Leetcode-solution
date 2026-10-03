@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0207-course-schedule) |
+| [0543-diameter-of-binary-tree](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0733-flood-fill) |
 ## Breadth-First Search
@@ -203,10 +204,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/RushikeshTathe/Leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
